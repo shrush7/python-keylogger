@@ -1,2 +1,2 @@
 # python-keylogger
-A simple node keylogger made using python
+A simple keylogger made using python
